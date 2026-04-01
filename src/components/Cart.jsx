@@ -1,13 +1,10 @@
 export default function Cart({ cart, onClose, onRemoveItem }) {
-  // ESTADO DERIVADO: Calculando o valor total em Dinheiro
-  // Multiplicamos o preço daquele item pela quantidade que o usuário escolheu
   const totalPrice = cart.reduce(
     (total, item) => total + item.price * item.quantity,
     0,
   );
 
   return (
-    // Fundo escuro semitransparente (Overlay)
     <div className="fixed isent-0 bg-gray-500 bg-opacity-50 flex justify-center items-center p-4 z-50 rounded-br-2xl rounded-tr-2xl text-gray-500">
       // Caixa em branco
       <div className="bg-white rounded-xl shadow-2xl w-full max-w-md p-6 relative max-h-[90vh] overflow-y-auto">
