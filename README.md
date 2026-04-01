@@ -1,14 +1,14 @@
-# 🛒 React Shop Cart
+# 🛒 React Shop
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-> **Sobre:** Projeto feito com o intuito de aprender e me desenvolver na biblioteca React e seu ecossistema.
+> **Sobre:** Meu primeiro projeto feito com o intuito de aprender e me desenvolver na biblioteca React e seu ecossistema.
 
 Um simulador de carrinho de compras (E-commerce) desenvolvido como Single Page Application (SPA). O foco prático deste repositório é a consolidação de fundamentos de arquitetura front-end, componentização e gestão de estado.
 
-## ✨ Funcionalidades (Regras de Negócio)
+## ✨ Funcionalidades
 
 - **Vitrine Dinâmica:** Renderização de produtos a partir de um mock de dados.
 - **Gestão de Carrinho:** Adicionar itens, incrementar quantidades e remover produtos.
