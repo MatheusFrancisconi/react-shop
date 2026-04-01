@@ -33,7 +33,7 @@ Pré-requisitos: Node.js instalado na máquina.
 1. Clone o repositório:
 
    ```bash
-   git clone [https://github.com/MatheusFrancisconi/react-shop.git](https://github.com/MatheusFrancisconi/react-shop.git)
+   git clone https://github.com/MatheusFrancisconi/react-shop.git
 
    ```
 
